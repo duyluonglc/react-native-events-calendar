@@ -1,4 +1,6 @@
 # React Native Event Calendar
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/duyluonglc/react-native-events-calendar.svg)](https://greenkeeper.io/)
 A React Native iOS style calendar implemented using VirtualizedList.
 This package is forked of https://github.com/joshyhargreaves/react-native-event-calendar
 allow run without expo and improve somethings
