@@ -3,6 +3,10 @@ A React Native iOS style calendar implemented using VirtualizedList.
 This package is forked of https://github.com/joshyhargreaves/react-native-event-calendar
 allow run without expo and improve somethings
 
+# Moved home
+Since @joshyhargreaves decided to merge this package to his package we will continue with his package
+here https://github.com/joshyhargreaves/react-native-event-calendar
+
 ## Demo
 <img src="https://raw.githubusercontent.com/duyluonglc/react-native-events-calendar/master/demo/screenshot.png" width="360">
 
